@@ -523,9 +523,15 @@ html{
 @media (max-width:550px) {
       html{
       font-size: 40%;
+      /* border: 10px solid red; */
     }
     .navbar-link{
       margin: 0 0.7rem;
     }
+  
+  .section-4-heading{
+   font-size: 4rem;
+  }
+
 }
 /* End Resposiveness  */
